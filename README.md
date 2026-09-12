@@ -90,5 +90,9 @@ and continuously improving my development skills.
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
+### 🤝 Connect With Me
+
+🔗 [LinkedIn](https://www.linkedin.com/in/hadia-javed-766866425/)
+💻 [GitHub](https://github.com/hadia31)
 
 </div>
