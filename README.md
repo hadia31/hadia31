@@ -94,5 +94,14 @@ and continuously improving my development skills.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/hadia-javed-766866425/)
 💻 [GitHub](https://github.com/hadia31)
+<h3 align="center">
+💻 C++ &nbsp; | &nbsp; 🌐 Web Development &nbsp; | &nbsp; 🐍 Python
+</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/hadia-javed-766866425/">LinkedIn</a>
+&nbsp; | &nbsp;
+<a href="https://github.com/hadia31">GitHub</a>
+</p>
 
 </div>
