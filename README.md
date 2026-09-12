@@ -1,8 +1,12 @@
 <div align="center">
 
-# 👋 Hi There, I'm Hadia Javed
+# 👋 Hi, I'm Hadia Javed
 
-### 💻 Developer | 🌱 Learning & Building | 🚀 Future Engineer
+### 💻 Aspiring Software Engineer
+
+**Python • Web Development • Git & GitHub**
+
+Building projects, learning new technologies, and growing as a software engineer 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hadia31&color=blue)
 
@@ -12,21 +16,41 @@
 
 ## 👩‍💻 About Me
 
-- 🌱 Currently learning and improving my development skills
+I'm an aspiring Software Engineer passionate about technology,
+software development, and continuous learning.
+
+- 🌱 Currently learning and improving my programming skills
 - 💻 Interested in Software Development & Technology
-- 🚀 Building projects and learning new things every day
-- 🎯 Goal: Become a skilled Software Engineer
-- 📚 Always curious, always learning
+- 🚀 Building projects to gain practical experience
+- 🔧 Learning Git, GitHub and modern development tools
+- 🎯 Working towards becoming a skilled Software Engineer
 
 ---
 
 ## 🛠️ Skills & Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
-
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
 </p>
+
+---
+
+## 🚀 Featured Project
+
+### 🚌 Bus Reservation System
+
+A project focused on managing bus reservations and passenger bookings.
+
+🔗 **[View Project](https://github.com/hadia31/Bus-reservation-system)**
+
+---
+
+## 📚 Currently Learning
+
+- 🐍 Python
+- 🌐 Web Development
+- 🔧 Git & GitHub
+- 💻 Software Engineering
 
 ---
 
@@ -42,19 +66,24 @@
 
 ---
 
-## 🚀 Currently Learning
+## 🎯 My Journey
 
-- 🌐 Web Development
-- 🐍 Python
-- 🔧 Git & GitHub
-- 💻 Programming
-- ☁️ Cloud & Modern Technologies
+**Learn → Build → Practice → Improve → Repeat 🚀**
+
+I'm focused on turning what I learn into practical projects
+and continuously improving my development skills.
 
 ---
 
-## 🎯 My Goal
+## 🤝 Let's Connect
 
-> Learn → Build → Practice → Improve → Repeat 🚀
+<div align="center">
+
+<a href="https://github.com/hadia31">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
